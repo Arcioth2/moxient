@@ -1,2 +1,2 @@
 # moxient
-3d fps shooter
+python ursina based 3d fps shooter
